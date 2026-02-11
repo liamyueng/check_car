@@ -1,11 +1,3 @@
-# Build outputs
-build/
-*.exe
-*.o
-
-# Go
-go.sum
-
 # Python
 __pycache__/
 *.pyc
@@ -21,4 +13,3 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
-source/
