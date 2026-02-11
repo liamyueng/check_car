@@ -1,0 +1,24 @@
+# Build outputs
+build/
+*.exe
+*.o
+
+# Go
+go.sum
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+source/
